@@ -1,4 +1,4 @@
-## Welcome to David's GitHub 👋
+### Welcome to David's GitHub 👋
 
 - ❓ Who are you?   
 I am a CS undergraduate @KHU, Korea.
