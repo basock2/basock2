@@ -1,4 +1,4 @@
-### Welcome to David's GitHub 👋
+# Welcome to David's GitHub 👋
 
 - ❓ Who are you?   
 I am a CS undergraduate @KHU, Korea.
@@ -9,9 +9,11 @@ Computational Neuroscience, Brain-Inspired AI, Brain-Computer Interface, Brain-R
 - 🌱 What are you learning?   
 Math... lots of math, Neuroscience, Psychology, Philosophy, Physics...
 
-- 👯 I’m looking to collaborate on CompNeuro projects!
+- 👯 I’m looking to collaborate on CompNeuro, AI projects!
 
 - 📫 How to reach me: email me @   
 basock2@gmail.com   
 basock2@khu.ac.kr
+
+# Research Interest
 
