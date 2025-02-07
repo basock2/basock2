@@ -27,7 +27,7 @@ basock2@khu.ac.kr
 
 - B.S (2023~): Kyung Hee Univ. Computer Engineering
 
-# Projects
+# Projects 🛠
 
 ### Brain
 
