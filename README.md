@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: email me @
-basock2@gmail.com
+- 📫 How to reach me: email me @   
+basock2@gmail.com   
 basock2@khu.ac.kr
 
