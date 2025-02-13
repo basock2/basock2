@@ -33,6 +33,7 @@ basock2@khu.ac.kr
 
 - MIT Introduction to Neural Computation OCW Assignment
 - Neuromatch Academy Computational Neuroscience Course
+- Computational Neuroscience Winter School Project: Calculating Intrinsic Timescale with Autocorrelation and relating it to hierarchy.
 
 ### Programming
 
